@@ -1,0 +1,33 @@
+name: Mustard Films
+analytics: {}
+github: true
+author: {}
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+    permalink:
+      path: '/:title/'
+content: []
+layout_spectrum: 1
+color:
+  lightness: 0.4802867
+  brandColors:
+    - '#FFFFFF'
+    - '#C13322'
+    - '#030303'
+    - '#585858'
+    - '#E2A5A4'
+  saturation: 0.4928315
+  brandStrength: 0.781362
+  rhythmicContrast: 0.4820789
+content_rating:
+  adult: false
+typography_spectrum: 0.7688172
+opengraph: {}
