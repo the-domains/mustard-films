@@ -1,5 +1,6 @@
 name: Mustard Films Digital Studios
-analytics: {}
+analytics:
+  google: UA-64070424-1
 github: true
 author:
   name: Danny Pascual
@@ -11,12 +12,12 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 content: []
 layout_spectrum: 1
 color:
