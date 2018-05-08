@@ -1,10 +1,10 @@
-name: 'Mustard Films '
+name: The Film Dream Productions
 analytics:
   google: UA-64070424-1
 github: true
 description: Inspiring & Transformative Stories
 author:
-  name: Danny Pascual
+  name: The Film Dream Productions
   url: 'http://thefilmdream.com'
   email: thefilmdream@icloud.com
 collections:
@@ -36,3 +36,4 @@ content_rating:
   adult: false
 typography_spectrum: 0.7688172
 opengraph: {}
+title: The Film Dream Productions
