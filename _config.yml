@@ -1,6 +1,5 @@
 name: The Film Dream Productions
-analytics:
-  google: UA-64070424-1
+analytics: {}
 github: true
 description: Producing Stories that Matter
 author:
@@ -13,12 +12,12 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 content: []
 layout_spectrum: 1
 color:
