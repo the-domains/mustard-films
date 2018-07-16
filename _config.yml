@@ -1,9 +1,9 @@
-name: The Film Dream Productions
+name: Cinemaliit
 analytics: {}
 github: true
-description: Producing Stories that Matter
+description: Inspiring Mobile Films
 author:
-  name: The Film Dream Productions
+  name: Cinemaliit
   url: 'http://thefilmdream.com'
   email: thefilmdream@icloud.com
 collections:
@@ -12,12 +12,12 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 content: []
 layout_spectrum: 1
 color:
@@ -35,4 +35,4 @@ content_rating:
   adult: false
 typography_spectrum: 0.7688172
 opengraph: {}
-title: The Film Dream Productions
+title: Cinemaliit
